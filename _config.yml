@@ -6,6 +6,8 @@ baseurl: ""
 url: "http://erichuang91.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
+eric_variable: Blah blah blah
+
 
 # Build settings
 markdown: kramdown

@@ -3,24 +3,24 @@
   <channel>
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 05 Aug 2014 18:29:40 +0000</pubDate>
-    <lastBuildDate>Tue, 05 Aug 2014 18:29:40 +0000</lastBuildDate>
+    <link>http://erichuang91.github.io/</link>
+    <atom:link href="http://erichuang91.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 05 Aug 2014 19:07:12 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2014 19:07:12 +0000</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;Hello worlds&lt;/p&gt;
+        <title>Day 2 - Nitrous.IO</title>
+        <description>&lt;h2 id=&quot;hello&quot;&gt;Hello&lt;/h2&gt;
+&lt;p&gt;Getting this up to github pages.&lt;/p&gt;
+
 </description>
         <pubDate>Tue, 05 Aug 2014 23:13:31 +0000</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/08/05/post%202/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/08/05/post%202/</guid>
+        <link>http://erichuang91.github.io/internship/2014/08/05/post-2/</link>
+        <guid isPermaLink="true">http://erichuang91.github.io/internship/2014/08/05/post-2/</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>internship</category>
         
       </item>
     
@@ -41,8 +41,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Mon, 04 Aug 2014 23:13:31 +0000</pubDate>
-        <link>http://yourdomain.com/internship/2014/08/04/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/internship/2014/08/04/welcome-to-jekyll/</guid>
+        <link>http://erichuang91.github.io/internship/2014/08/04/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://erichuang91.github.io/internship/2014/08/04/welcome-to-jekyll/</guid>
         
         
         <category>internship</category>
